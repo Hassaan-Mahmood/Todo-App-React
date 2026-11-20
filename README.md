@@ -37,3 +37,4 @@ npm run preview
 - Update 7 (2026-11-20): Added edit mode for a task.
 - Update 8 (2026-11-20): Added delete with a confirm step.
 - Update 9 (2026-11-20): Added a Clear done button for completed tasks.
+- Update 10 (2026-11-20): Verified the production build with npm run build.
