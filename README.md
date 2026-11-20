@@ -34,3 +34,4 @@ npm run preview
 - Update 4 (2026-11-20): Added due dates with overdue and due-today highlighting.
 - Update 5 (2026-11-20): Added filters: All, Active and Done.
 - Update 6 (2026-11-20): Added search by title and notes.
+- Update 7 (2026-11-20): Added edit mode for a task.
