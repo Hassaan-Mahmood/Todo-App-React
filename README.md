@@ -33,3 +33,4 @@ npm run preview
 - Update 3 (2026-11-20): Added priority pills: Low, Medium and High.
 - Update 4 (2026-11-20): Added due dates with overdue and due-today highlighting.
 - Update 5 (2026-11-20): Added filters: All, Active and Done.
+- Update 6 (2026-11-20): Added search by title and notes.
