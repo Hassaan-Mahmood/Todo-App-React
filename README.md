@@ -26,3 +26,6 @@ Then open the URL Vite prints, usually http://localhost:5173.
 npm run build
 npm run preview
 ```
+
+## Progress log
+- Update 1 (2026-11-20): Practised useState — adding a task updates the list instantly.
