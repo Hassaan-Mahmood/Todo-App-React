@@ -30,3 +30,4 @@ npm run preview
 ## Progress log
 - Update 1 (2026-11-20): Practised useState — adding a task updates the list instantly.
 - Update 2 (2026-11-20): Practised useEffect — saving todos to localStorage on every change.
+- Update 3 (2026-11-20): Added priority pills: Low, Medium and High.
