@@ -1,7 +1,7 @@
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import ThemeSwitch from "./components/ThemeSwitch";
 import { ThemeProvider } from "./context/ThemeContext";
-import Login from "./pages/login";
+import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import Todo from "./pages/Todo";
 
